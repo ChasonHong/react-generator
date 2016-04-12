@@ -61,8 +61,12 @@
   },
   "dependencies": {
     "core-js": "^2.0.0",
+    "es6-promise": "^3.1.2",
     "immutable": "^3.7.6",
+    "install": "^0.6.1",
+    "isomorphic-fetch": "^2.2.1",
     "normalize.css": "^3.0.3",
+    "npm": "^3.8.6",
     "react": "^0.14.0",
     "react-dom": "^0.14.0",
     "react-redux": "^4.4.1",
