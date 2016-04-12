@@ -50,7 +50,7 @@
     "mocha": "^2.2.5",
     "null-loader": "^0.1.1",
     "open": "0.0.5",
-    "phantomjs-prebuilt": "^2.0.0",
+    "phantomjs-prebuilt": "^2.1.7",
     "react-addons-test-utils": "^0.14.0",
     "react-hot-loader": "^1.2.9",
     "rimraf": "^2.4.3",
@@ -69,9 +69,10 @@
     "npm": "^3.8.6",
     "react": "^0.14.0",
     "react-dom": "^0.14.0",
-    "react-redux": "^4.4.1",
+    "react-redux": "^4.4.2",
     "react-router": "^2.0.0",
     "react-router-redux": "^4.0.0",
+    "redux": "^3.4.0",
     "redux-thunk": "^1.0.3"
   }
 }
