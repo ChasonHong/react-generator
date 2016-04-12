@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "mmReduxGenerator",
+    "style": "css",
+    "postcss": false
+  }
+}
